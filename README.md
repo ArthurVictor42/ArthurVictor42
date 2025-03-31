@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi! I am Arthur Victor👋
 ## Olá! Eu sou o Arthur Victor 🖐️
 
 ## Aluno de sistema de informação
