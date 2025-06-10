@@ -10,10 +10,8 @@
 <div style="display: inline_block">
 
   <img align="center" alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
-  <span> Java + JDBC para aplicações conectadas a banco de dados.</span><br><br>
 
   <img align="center" alt="MySQL" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" />
-  <span> Modelagem e consultas com MySQL.</span><br><br>
 
 </div>
 
