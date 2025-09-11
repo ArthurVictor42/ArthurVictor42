@@ -30,7 +30,6 @@
 
 ## 🤝 Contato / Contact
 
-✉️ **arthurv.santos@unifacol.edu.br**  
 🔗 [LinkedIn](https://www.linkedin.com/in/arthur-victor-dev/)
 
 ---
