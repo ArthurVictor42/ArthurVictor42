@@ -1,6 +1,6 @@
 ## 👋 Olá! Eu sou Arthur Victor / Hi! I'm Arthur Victor
 
-🧑‍💻 19 anos, estudante de Sistemas de Informação, apaixonado por tecnologia.  
+🧑‍💻 20 anos, estudante de Sistemas de Informação, apaixonado por tecnologia.  
 📚 Este GitHub é focado nos meus estudos e projetos acadêmicos.
 
 ---
